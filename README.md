@@ -1,3 +1,3 @@
-# nvim_config
+# nvim
 
 ~/.config/nvim/скопировать сюда
